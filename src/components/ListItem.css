@@ -1,0 +1,15 @@
+img{
+    width:300px;
+}
+
+a{
+    font-size: larger;
+}
+
+.list-item{
+    background-color: #dedbd2;
+    margin: 3%;
+    padding: 5%;
+    border-radius: 4%;
+
+}

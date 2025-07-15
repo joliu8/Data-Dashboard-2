@@ -1,0 +1,29 @@
+.cards-list{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 5%;
+}
+/* .cards-and-recipe-list{
+    background-color: azure;
+
+
+} */
+
+.recipe-list{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.inputs-list{
+    margin:5%;
+}
+input, select{
+    font-size: 24px;
+    margin-right: 2%;
+    width: 300px;
+    background-color: #d8e2dc;
+    color: #4a5759;
+    box-shadow: none;
+    border: none;
+    height:auto;
+}
